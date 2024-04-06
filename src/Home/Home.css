@@ -1,0 +1,25 @@
+.head-container{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.details{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.personalimage{
+    height:470px;
+    width:480px;
+    border-radius: 50%;
+    margin-left: 80px;
+    border: 1px solid;
+}
+
+
+.head-items{
+    display: flex;
+    flex-direction: row;
+    padding-right: 30px;
+}

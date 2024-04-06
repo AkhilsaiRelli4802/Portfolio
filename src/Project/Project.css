@@ -1,0 +1,24 @@
+.projectContainer{
+    background-color: purple;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 123);
+    border-width: 1px;
+    height:30%;
+    width:27%;
+    padding:30px;
+    margin:20px;
+    text-align: center;
+    border-style:double;
+    color:white
+}
+.projectImage{
+    height:50px;
+    width:50px;
+    border-radius:50px;
+}
+.projectsList{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+}

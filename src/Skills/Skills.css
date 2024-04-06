@@ -1,0 +1,41 @@
+.Skillimage{
+    height:100px;
+    width: 100px;
+    border-radius: 80px;
+    padding: 10px;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    margin-right: 250px;
+    
+}
+.Profile{
+    height:380px;
+    border-radius: 50px;
+    width:400px;
+    margin-left: 50px;
+    transform: skew(20deg);
+    transform-origin: top right;
+}
+.Holecontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.resumebutton {
+    height: 40px;
+    border-radius: 20px;
+    border-width: 0px;
+    background-color: grey;
+    color: whitesmoke;
+    transition: background-color 0.3s;
+}
+
+.resumebutton:hover {
+    background-color: yellow;
+    color:black;
+}

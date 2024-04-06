@@ -1,0 +1,15 @@
+.layoutcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.appimage{
+    height:30px;
+    width:30px;
+    border-radius: 50px;
+    border-width: 2px;
+    border-color: blueviolet;
+    border-style: double;
+    margin-right:30px
+}
+
